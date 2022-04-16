@@ -5,7 +5,7 @@ Video+ is a personalized Twitch resources recommendation engine. Users can searc
 
 # User Interface
 ![screenshot1](https://user-images.githubusercontent.com/50295329/158078858-d9194c70-336c-4af0-aca4-89a24b00a94d.jpg)
-![screenshot2](https://user-images.githubusercontent.com/50295329/158078860-2aa0c93d-3fbf-4c3f-9f05-a44e291f1361.jpg)
+<img width="1679" alt="截屏2022-04-16 上午12 31 00" src="https://user-images.githubusercontent.com/50295329/163663083-a9d1cbdd-85f4-4032-8092-f6f9e2d00440.png">
 
 # Features
 Front-end: React.js, Ant Design
